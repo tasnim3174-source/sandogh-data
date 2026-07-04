@@ -1,40 +1,5 @@
 {
-  "members": [
-    {
-      "id": 1,
-      "firstName": "علی",
-      "lastName": "محمدی",
-      "accountNumber": "1001",
-      "phone1": "09123456789",
-      "phone2": "",
-      "balance": 5000000,
-      "coins": 25,
-      "usedCoins": 0,
-      "coinHistory": [],
-      "loginCount": 0,
-      "openDate": "1400/01/15",
-      "birthDate": "1370/05/20",
-      "smsStatus": {},
-      "transactions": []
-    },
-    {
-      "id": 2,
-      "firstName": "رضا",
-      "lastName": "احمدی",
-      "accountNumber": "1002",
-      "phone1": "09187654321",
-      "phone2": "",
-      "balance": 3000000,
-      "coins": 15,
-      "usedCoins": 0,
-      "coinHistory": [],
-      "loginCount": 0,
-      "openDate": "1401/03/10",
-      "birthDate": "1375/08/15",
-      "smsStatus": {},
-      "transactions": []
-    }
-  ],
+  "members": [],
   "users": [
     {
       "id": 1,
@@ -42,34 +7,21 @@
       "password": "admin123",
       "role": "admin",
       "memberId": null
-    },
-    {
-      "id": 101,
-      "username": "1001",
-      "password": "1001",
-      "role": "member",
-      "memberId": 1
-    },
-    {
-      "id": 102,
-      "username": "1002",
-      "password": "1002",
-      "role": "member",
-      "memberId": 2
     }
   ],
   "logo": "",
   "support": {
-    "phone": "021-12345678",
-    "accountNumber": "1234567890",
-    "address": "تهران، خیابان ..."
+    "phone": "",
+    "accountNumber": "",
+    "address": ""
   },
   "shopItems": [
-    {"id": "s1", "name": "کالا نمونه ۱", "description": "توضیحات", "price": 10},
-    {"id": "s2", "name": "کالا نمونه ۲", "description": "توضیحات", "price": 20}
+    {"id": "s1", "name": "کالا نمونه ۱", "description": "توضیحات کالا", "price": 10},
+    {"id": "s2", "name": "کالا نمونه ۲", "description": "توضیحات کالا", "price": 20},
+    {"id": "s3", "name": "کالا نمونه ۳", "description": "توضیحات کالا", "price": 50}
   ],
   "messages": [],
   "announcements": [],
   "polls": [],
-  "lastUpdate": "2026-07-04T12:00:00Z"
+  "lastUpdate": ""
 }
